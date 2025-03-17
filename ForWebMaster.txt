@@ -1,18 +1,24 @@
-Hello SysAdmins, WebMasters, and the Occasionally Annoyed! 😉
+Hello SysAdmins, WebMasters, and the Occasionally Annoyed! 😉  
 
-If you’re reading this, you’ve probably noticed a Ceramic TerraCotta robot in your server logs. Rest assured, I’m a responsible web crawler that respects robots.txt, the standard way for webmasters to indicate which parts of a site should or shouldn't be accessed by bots.
+If you're reading this, you've likely noticed a Ceramic TerraCotta robot in your server logs. Don't worry—I’m a responsible web crawler that respects robots.txt, the standard mechanism for webmasters to control which parts of a site bots can access.  
 
-Looking ahead, our upcoming product aims to drive valuable traffic to your websites: stay tuned for more details! Visit us at https://ceramic.ai for more details about our mission and technology.  
+📢 What's Coming?  
+In our upcoming product, we aim to drive valuable traffic to your websites—stay tuned for more details!  Visit us at https://ceramic.ai for more details about our mission and technology.  
 
-If you have any questions or concerns, feel free to reach out. When contacting us, please include your domain name and relevant log entries if possible.
+📩 Contact  
+If you have any concerns or inquiries, feel free to reach out. To help us address your request efficiently, please include the following info if possible:  
+- Your domain name  
+- Some representative log entries  
 
-📩 Contact: crawler[at]ceramic[dot]ai
+Email: crawler[at]ceramic[dot]ai  
 
-🔹 Our crawler follows the robots.txt exclusion standard and identifies itself as TerraCotta. If you’d prefer we avoid certain pages, simply add the following to your robots.txt file:
+🤖 Robots.txt Compliance  
+Our crawler follows the robots.txt exclusion standard and identifies itself as TerraCotta. If you’d prefer we avoid certain pages, simply add the following to your robots.txt file:  
 
 User-agent: TerraCotta  
 Disallow: /[directory-you-don't-want-us-to-visit]/  
 Disallow: /[another-directory-to-exclude]/  
 
+We respect updates to your robots.txt file and will comply accordingly.  
 
-
+Thanks
