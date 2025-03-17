@@ -2,7 +2,7 @@ Hello SysAdmins, WebMasters, and the Occasionally Annoyed! 😉
 
 If you’re reading this, you’ve probably noticed a Ceramic TerraCotta robot in your server logs. Rest assured, I’m a responsible web crawler that respects robots.txt, the standard way for webmasters to indicate which parts of a site should or shouldn't be accessed by bots.
 
-Looking ahead, our upcoming product aims to drive valuable traffic to your websites: stay tuned for more details!
+Looking ahead, our upcoming product aims to drive valuable traffic to your websites: stay tuned for more details! Visit us at https://ceramic.ai for more details about our mission and technology.  
 
 If you have any questions or concerns, feel free to reach out. When contacting us, please include your domain name and relevant log entries if possible.
 
