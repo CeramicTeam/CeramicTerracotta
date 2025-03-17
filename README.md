@@ -8,7 +8,7 @@ If you're reading this, you've likely noticed a **Ceramic TerraCotta** robot in 
 In our upcoming product, we aim to **drive valuable traffic** to your websites—stay tuned for more details!  Visit us at **[ceramic.ai](https://ceramic.ai/)** for more details about our mission and technology.  
 
 ## Contact  
-If you have any concerns or inquiries, feel free to reach out. If possible, to help us address your request efficiently, please include the following info if possible:  
+If you have any concerns or inquiries, feel free to reach out. To help us address your request efficiently, please include the following info if possible:  
 - Your domain name  
 - Some representative log entries  
 
