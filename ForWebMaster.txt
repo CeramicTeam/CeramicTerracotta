@@ -1,0 +1,14 @@
+SysAdmins/WebMasters
+A page for SysAdmins/WebMasters and other angry people... ;)
+
+Introduction
+If you’re reading this, chances are you’ve seen a Cerammic TerraCotta robot visiting your site while looking through your server logs. Our software obeys robots.txt files. It is the standard mechanisms for webmasters to tell web robots which portions of a site a robot is welcome to access.
+
+Sysadmins/robots.txt
+we’d like to hear about any bad behavior from our crawler. If possible, please include the name of the domain and some representative log entries. We can be reached at lei[at]ceramic[dot]ai
+
+Our software obeys the robots.txt exclusion standard.  We should respond to the agent name “TerraCotta”. If you want to ban Caremic TerraCotta crawler from your webpages, place the following in your robots.txt file:
+
+User-agent: TerraCotta
+Disallow: /[directory0-you-don't-want-us-to-visit]/
+Disallow: /[directory1-you-don't-want-us-to-visit]/
