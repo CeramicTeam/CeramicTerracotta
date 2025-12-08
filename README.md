@@ -5,7 +5,7 @@
 If you're reading this, you've likely noticed a **Ceramic TerraCotta** robot in your server logs. Don't worry—I’m a responsible web crawler that respects `robots.txt`, the standard mechanism for webmasters to control which parts of a site bots can access.  
 
 ### 📢 What's Coming?  
-In our upcoming product, we aim to **drive valuable traffic** to your websites—stay tuned for more details!  Visit us at **[ceramic.ai](https://ceramic.ai/)** for more details about our mission and technology.  
+We are building a search engine. In our upcoming product, we aim to **drive valuable traffic** to your websites—stay tuned for more details!  Visit us at **[ceramic.ai](https://ceramic.ai/)** for more details about our mission and technology.  
 
 ## Contact  
 If you have any concerns or inquiries, feel free to reach out. To help us address your request efficiently, please include the following info if possible:  
