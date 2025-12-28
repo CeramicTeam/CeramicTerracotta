@@ -21,3 +21,10 @@ Our crawler follows the `robots.txt` exclusion standard and identifies itself as
 User-agent: TerraCotta  
 Disallow: /[directory-you-don't-want-us-to-visit]/  
 Disallow: /[another-directory-to-exclude]/  
+```
+
+## We Crawl From the Following IPs
+3.81.22.55
+54.221.42.116
+98.80.80.221
+98.87.168.45
